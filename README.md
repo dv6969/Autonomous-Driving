@@ -49,13 +49,15 @@ This ensures the direction vector is normalized (i.e., has a magnitude of 1).
 
 Normalize the Direction Vector:
 The x and y components of the direction vector are calculated by dividing the differences by the Euclidean distance:
+![image](https://github.com/user-attachments/assets/0874ef63-ec0b-4090-b531-1257e49ca564)
 
  
 (x, y) is a unit vector pointing from the vehicle's current position to the target waypoint.
 
 •	This normalized direction vector is often used to calculate the steering angle or to guide the vehicle toward the waypoint.
 •	For example, the steering angle can be computed using the arctangent of the direction vector:
-                                   
+                  ![image](https://github.com/user-attachments/assets/c016b096-3995-4441-8edb-8332b259e8e7)
+                 
 
 The formula calculates the normalized direction vector from the vehicle's position to a target waypoint. This vector is used in navigation systems to determine the direction the vehicle should move or steer. The normalization ensures the vector has a magnitude of 1, making it easier to work with in calculations like steering control.
 
