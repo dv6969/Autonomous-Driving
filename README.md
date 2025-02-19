@@ -59,6 +59,7 @@ The x and y components of the direction vector are calculated by dividing the di
 (x, y) is a unit vector pointing from the vehicle's current position to the target waypoint.
 
 •	This normalized direction vector is often used to calculate the steering angle or to guide the vehicle toward the waypoint.
+
 •	For example, the steering angle can be computed using the arctangent of the direction vector:
                  
 
