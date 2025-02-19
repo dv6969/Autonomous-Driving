@@ -1,6 +1,7 @@
 # Autonomous-Driving
-Creating a Simulation for Autonomous Car
-Steering Control Using Normalized Direction Vector for Autonomous Vehicle Navigation
+#Creating a Simulation for Autonomous Car
+#Steering Control Using Normalized Direction Vector for Autonomous Vehicle Navigation
+
 In autonomous vehicle navigation systems like CARLA, the normalized direction vector plays a crucial role in steering control. Here's how it works:
 CARLA (Car Learning to Act) is an open-source, high-fidelity autonomous driving simulator designed for research and development in the fields of autonomous vehicles, robotics, and reinforcement learning. It provides a realistic environment for testing and training AI models for self-driving cars.
 Key Features of CARLA
