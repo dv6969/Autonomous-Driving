@@ -61,8 +61,9 @@ The x and y components of the direction vector are calculated by dividing the di
 •	This normalized direction vector is often used to calculate the steering angle or to guide the vehicle toward the waypoint.
 •	For example, the steering angle can be computed using the arctangent of the direction vector:
                  
-                  ![image](https://github.com/user-attachments/assets/c016b096-3995-4441-8edb-8332b259e8e7)
+
                  
+![image](https://github.com/user-attachments/assets/699dd3fd-eb3f-4155-ac9e-e8036ceec31e)
 
 
 
