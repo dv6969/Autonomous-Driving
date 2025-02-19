@@ -1,5 +1,7 @@
 # Autonomous-Driving
+
 #Creating a Simulation for Autonomous Car
+
 #Steering Control Using Normalized Direction Vector for Autonomous Vehicle Navigation
 
 In autonomous vehicle navigation systems like CARLA, the normalized direction vector plays a crucial role in steering control. Here's how it works:
