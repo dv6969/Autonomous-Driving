@@ -51,10 +51,10 @@ This ensures the direction vector is normalized (i.e., has a magnitude of 1).
 
 Normalize the Direction Vector:
 The x and y components of the direction vector are calculated by dividing the differences by the Euclidean distance:
+
 ![image](https://github.com/user-attachments/assets/0874ef63-ec0b-4090-b531-1257e49ca564)
 
  
-
 
 (x, y) is a unit vector pointing from the vehicle's current position to the target waypoint.
 
