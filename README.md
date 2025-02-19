@@ -76,3 +76,14 @@ The formula calculates the normalized direction vector from the vehicle's positi
 Conclusion:
 The use of a normalized direction vector is a fundamental technique in autonomous vehicle navigation systems like CARLA. By calculating the direction from the vehicle's current position to a target waypoint and normalizing it, we obtain a unit vector that simplifies steering control calculations. This vector is used to compute the steering angle, which guides the vehicle along the desired path.
 The normalization process ensures that the direction vector is independent of the distance to the waypoint, making it robust and reliable for real-time navigation. This approach is essential for achieving smooth, accurate, and efficient steering control in autonomous driving scenarios. By leveraging this method, developers can create more responsive and intelligent autonomous vehicles capable of navigating complex environments with precision.
+
+
+Simulation Video
+
+
+
+
+https://github.com/user-attachments/assets/55085a52-0d2d-4d5f-925f-8416121e4d09
+
+
+
